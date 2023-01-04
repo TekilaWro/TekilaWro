@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DawidWro
+- 👋 Hi, I’m Dawid
 - 👀 I’m interested in military and programming
 - 🌱 I’m currently learning CSS, HTML and JS
 - 💞️ I’m looking to collaborate on ...
